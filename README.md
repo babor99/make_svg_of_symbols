@@ -1,0 +1,1 @@
+# make_svg_of_symbols
